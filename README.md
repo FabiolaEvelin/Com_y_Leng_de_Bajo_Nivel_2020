@@ -1,3 +1,3 @@
 # Com_y_Leng_de_Bajo_Nivel
-Com. y Leng. de Bajo Nivel
-Alumna:  Fabiola Fleitas
+TAREA 1 – Análisis Léxico
+Alumna: Fabiola Fleitas
