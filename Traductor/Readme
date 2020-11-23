@@ -1,4 +1,4 @@
-TRABAJO PRÁCTICO Nº2 y 3 - DE COMPILADORES Y LENGUAJES DE BAJO NIVEL
+TRABAJO PRÁCTICO Nº3 - DE COMPILADORES Y LENGUAJES DE BAJO NIVEL
 
 Integrantes:
 -- Lidia Mongelós
@@ -10,5 +10,3 @@ Para compilar:
 gcc traductor.c -o traductor
 
 ./traductor fuente.txt
-
-
